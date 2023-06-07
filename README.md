@@ -3,15 +3,15 @@ This project is a code simulator designed to provide a realistic and interactive
 
 # Features
 ## PX4 Autopilot Integration:
-The simulator seamlessly integrates with the PX4 autopilot system, allowing you to leverage its advanced features and capabilities. You can develop and test your UAV control algorithms using the same software stack that runs on real UAVs.
+The code seamlessly integrates with the PX4 autopilot system, allowing you to leverage its advanced features and capabilities. You can develop and test your UAV control algorithms using the same software stack that runs on real UAVs.
 ## Gazebo Simulation Environment:
-The simulator utilizes the Gazebo simulator, a widely adopted open-source 3D robotics simulator, to provide a highly realistic and customizable environment. You can create dynamic scenarios, simulate different weather conditions, and test your UAV in various challenging situations.
+The code utilizes the Gazebo simulator, a widely adopted open-source 3D robotics simulator, to provide a highly realistic and customizable environment. You can create dynamic scenarios, simulate different weather conditions, and test your UAV in various challenging situations.
 ## Realistic Physics and Sensor Models:
-The simulator incorporates accurate physics models for UAV dynamics, including flight dynamics, aerodynamics, and sensor characteristics. This enables you to simulate realistic UAV behavior and sensor outputs, enhancing the fidelity of your simulations.
+The code incorporates accurate physics models for UAV dynamics, including flight dynamics, aerodynamics, and sensor characteristics. This enables you to simulate realistic UAV behavior and sensor outputs, enhancing the fidelity of your simulations.
 ## Flexible Configuration and Customization:
-The simulator allows you to configure and customize various aspects of your UAV and simulation environment. You can modify parameters such as UAV properties, sensor models, and environmental conditions to match your specific requirements and experiment with different scenarios.
+The code allows you to configure and customize various aspects of your UAV and simulation environment. You can modify parameters such as UAV properties, sensor models, and environmental conditions to match your specific requirements and experiment with different scenarios.
 ## ROS Integration: 
-The simulator integrates with the Robot Operating System (ROS), a flexible framework for developing robotic systems. This integration enables seamless communication between your simulated UAV and other ROS-based components, such as perception algorithms or mission planners.
+The code integrates with the Robot Operating System (ROS), a flexible framework for developing robotic systems. This integration enables seamless communication between your simulated UAV and other ROS-based components, such as perception algorithms or mission planners.
 Real-Time Execution: The simulator provides real-time execution of code, allowing you to see the output and any errors instantly. This feature enables you to understand the behavior of your code and debug it efficiently.
 
 # Required dependencies
