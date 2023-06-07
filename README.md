@@ -4,6 +4,7 @@ This project is a code simulator designed to provide a realistic and interactive
 # Features
 # Required dependencies
 1.Following the Link to set up a PX4 development environment  https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html
+2.Install Python version 3.8
 
 
 # Getting Started
