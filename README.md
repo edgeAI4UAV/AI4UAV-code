@@ -26,9 +26,10 @@ To get started with the code simulator, follow these steps:
 3. Copy the folder "animated_person" to this directory PX4-Autopilot->Tools->sitl_gazebo->models
 4. Copy the file "baylands.world" to this directory PX4-Autopilot->Tools->sitl_gazebo->world
 5. Launch the simulator by running the appropriate command "make px4_sitl gazebo_typhoon_h480__baylands -j8".
-6. Start coding and experimenting with different code snippets.
-7. View the output and debug your code in real-time.
-8. Explore the code snippet library for reference and inspiration.
+6. When the terminal of simulator runnig write this command "param set COM_RCL_EXCEPT 7"
+7. Start coding and experimenting with different code snippets.
+8. View the output and debug your code in real-time.
+9. Explore the code snippet library for reference and inspiration.
 
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your feedback and contributions are greatly appreciated!
 
