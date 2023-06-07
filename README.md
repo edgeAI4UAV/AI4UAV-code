@@ -5,14 +5,17 @@ This project is a code simulator designed to provide a realistic and interactive
 # Required dependencies
 1.Following the Link to set up a PX4 development environment  https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html
 
+
 # Getting Started
 To get started with the code simulator, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies as specified in the README file.
-3. Launch the simulator by running the appropriate command or script.
-5. Start coding and experimenting with different code snippets.
-6. View the output and debug your code in real-time.
-7. Explore the code snippet library for reference and inspiration.
+3. Copy the folder "animated_person" to this directory PX4-Autopilot->Tools->sitl_gazebo->models
+4. Copy the file "baylands.world" to this directory PX4-Autopilot->Tools->sitl_gazebo->world
+5. Launch the simulator by running the appropriate command "make px4_sitl gazebo_typhoon_h480__baylands -j8".
+6. Start coding and experimenting with different code snippets.
+7. View the output and debug your code in real-time.
+8. Explore the code snippet library for reference and inspiration.
 
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your feedback and contributions are greatly appreciated!
 
