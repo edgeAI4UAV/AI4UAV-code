@@ -2,6 +2,8 @@
 This project is a code simulator designed to provide a realistic and interactive environment for practicing and experimenting with python. The algorithms were initially integrated, using a simulation that control, navigate and run the drone in PX4 version 1.13.1 and MAVSDK software with Python mavsdk library in the Loop (SITL) simulation. Gazebo 11 simulator interface helped us to preview the mission of the UAV.
 
 # Features
+Real-Time Execution: The simulator provides real-time execution of code, allowing you to see the output and any errors instantly. This feature enables you to understand the behavior of your code and debug it efficiently.
+
 # Required dependencies
 1.Following the Link to set up a PX4 development environment  https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html
 2.Install Python version 3.8
