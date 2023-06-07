@@ -2,6 +2,16 @@
 This project is a code simulator designed to provide a realistic and interactive environment for practicing and experimenting with python. The algorithms were initially integrated, using a simulation that control, navigate and run the drone in PX4 version 1.13.1 and MAVSDK software with Python mavsdk library in the Loop (SITL) simulation. Gazebo 11 simulator interface helped us to preview the mission of the UAV.
 
 # Features
+## PX4 Autopilot Integration:
+The simulator seamlessly integrates with the PX4 autopilot system, allowing you to leverage its advanced features and capabilities. You can develop and test your UAV control algorithms using the same software stack that runs on real UAVs.
+## Gazebo Simulation Environment:
+The simulator utilizes the Gazebo simulator, a widely adopted open-source 3D robotics simulator, to provide a highly realistic and customizable environment. You can create dynamic scenarios, simulate different weather conditions, and test your UAV in various challenging situations.
+## Realistic Physics and Sensor Models:
+The simulator incorporates accurate physics models for UAV dynamics, including flight dynamics, aerodynamics, and sensor characteristics. This enables you to simulate realistic UAV behavior and sensor outputs, enhancing the fidelity of your simulations.
+## Flexible Configuration and Customization:
+The simulator allows you to configure and customize various aspects of your UAV and simulation environment. You can modify parameters such as UAV properties, sensor models, and environmental conditions to match your specific requirements and experiment with different scenarios.
+## ROS Integration: 
+The simulator integrates with the Robot Operating System (ROS), a flexible framework for developing robotic systems. This integration enables seamless communication between your simulated UAV and other ROS-based components, such as perception algorithms or mission planners.
 Real-Time Execution: The simulator provides real-time execution of code, allowing you to see the output and any errors instantly. This feature enables you to understand the behavior of your code and debug it efficiently.
 
 # Required dependencies
@@ -23,6 +33,7 @@ To get started with the code simulator, follow these steps:
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your feedback and contributions are greatly appreciated!
 
 # License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
 # Acknowledgments
 
