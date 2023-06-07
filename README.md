@@ -15,8 +15,8 @@ The code integrates with the Robot Operating System (ROS), a flexible framework 
 Real-Time Execution: The simulator provides real-time execution of code, allowing you to see the output and any errors instantly. This feature enables you to understand the behavior of your code and debug it efficiently.
 
 # Required dependencies
-1.Following the Link to set up a PX4 development environment  https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html
-2.Install Python version 3.8
+1. Following the link to set up a PX4 development environment https://docs.px4.io/main/en/dev_setup/dev_env_linux_ubuntu.html
+2. Install Python version 3.8
 
 
 # Getting Started
