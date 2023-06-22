@@ -39,6 +39,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 # Acknowledgments
 The edgeAI4UAV has indirectly received funding from the European Union’s Horizon 2020 research and innovation action programme, via the AI4Media Open Call #1 issued and executed under the AI4Media project (Grant Agreement no. 951911).
 
-We would like to thank the open-source community for their contributions and support. Their dedication and passion for coding have greatly influenced the development of this code simulator.
-
 If you have any questions or need assistance, please don't hesitate to reach out. Happy coding!
