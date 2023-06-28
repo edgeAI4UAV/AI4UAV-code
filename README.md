@@ -34,7 +34,8 @@ To get started with the code simulator, follow these steps:
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your feedback and contributions are greatly appreciated!
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+![Creative Commons License CC-BY-NC-SA-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 # Acknowledgments
 The edgeAI4UAV has indirectly received funding from the European Union’s Horizon 2020 research and innovation action programme, via the AI4Media Open Call #1 issued and executed under the AI4Media project (Grant Agreement no. 951911).
